@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @gbursson
-- 👀 I’m interested in Web Development and Databases
+- 👀 I’m interested in Web Development, Databases and utility Scripting
 - 🌱 I’m currently learning Django and of course Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Dabbling in PowerShell and a bit of Bash
+<!-- - 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: -->
 
 <!---
 gbursson/gbursson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
